@@ -78,7 +78,7 @@ Close the HTML structure.
 # OUTPUT 7(i):
       
 ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/61ce8e95-3f27-4661-96cd-b0a9d1b96631)
-![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/919225af-b1fe-41ec-a95b-fd3ddeb8316c)
+![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/09813cea-5181-4a69-a9d2-a115184ce801)
 ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/71eb428c-a083-437e-ac56-b5bfecfbc55e)
 
 # Ex-07(ii)-CSS
@@ -137,7 +137,8 @@ End the HTML document by closing all open tags.
       
 # OUTPUT:7(ii):
 ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/c4236029-60bf-4ec5-ab5b-c1340ee2b62c)
-![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/b0d9b420-30a4-4eec-bbd1-08ecfe1fb796)
+![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/1572f2a3-cb81-430c-9fb5-d347edc0a9e8)
+
 # Ex-07(iii)-CSS Orientation-based Media Query
 # AIM
 To explain how you can use CSS media queries to apply different styles based on the orientation (landscape or portrait) of the device. Provide a CSS example where you change the background color of the body based on the orientation.
@@ -195,7 +196,8 @@ Open your HTML file in a web browser and change the orientation of your device t
       
 # OUTPUT:7(iii):
 ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/3748599f-20c4-4f4f-9cb8-39345519c418)
-![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/4b6c65a0-8274-4868-986d-0ed14f19a164)
+![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/26918610-2173-4cd0-8c5d-c9dc67f5478e)
+
 # Ex-07(iv)-CSS Responsive Typography
 # AIM
 To describe how you would use media queries to adjust typography (like font size and line spacing) on a website to improve readability across different device sizes, from mobile phones to large desktop monitors. Include a CSS code snippet in your explanation.
@@ -266,8 +268,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
       
  # OUTPUT:7(iv):
  ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/f10b9665-c66c-497d-afe3-1c011ba55e7c)
- ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/efaaa62c-934c-4f55-b3e2-bd5f0a8edb6c)
- ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/de4a9dec-35b9-4135-b8d1-cf63e119561e)
+ ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/72576271-89b7-4572-8d50-82b4b78b66b6)
+ ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/4f1c7ba9-1e84-4a03-bbf9-f62e07b11cac)
+
  # Ex-07(v)-Print-friendly CSS
 # AIM
 To use a media query to change the styling of a webpage when it is printed, such as changing the background to white and hiding non-essential elements. Provide a CSS example.
