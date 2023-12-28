@@ -336,7 +336,8 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
       
  # OUTPUT:7(v):
  ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/404e59fa-e06c-4934-9819-2a61544a62ec)
- ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/59df1bc1-4e4f-4fe1-ba0e-211c4d887901)
+ ![image](https://github.com/Daniel-christal/ODD2023-WT-Ex-07-CSS/assets/145742847/8caae2c5-3408-433d-8528-d748cda153d2)
+
 # Ex-07(vi)-Dark Mode Implementation
 # AIM
 With the increasing popularity of dark mode in user interfaces, explain how you would use a media query to detect if the user has set their system to prefer a dark color scheme. Provide an example of how you would change the background and text colors of a website based on this preference.
